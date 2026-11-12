@@ -1,0 +1,1 @@
+Project that will re-use a decomissionned Cisco phone to call AI.
