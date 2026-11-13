@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Hotline.Tests/Hotline.Tests.csproj" />
+  <Project Path="Hotline/Hotline.csproj" />
+</Solution>

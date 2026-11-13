@@ -1,0 +1,8 @@
+{
+  "whisper_exe": "C:/tools/whisper/whisper-cli.exe",
+  "whisper_model": "C:/models/ggml-small.bin",
+  "whisper_gpu": true,
+  "piper_exe": "C:/tools/piper/piper.exe",
+  "voices": {"en": "C:/models/en_US-lessac-medium.onnx", "fr": "C:/models/fr_FR-siwis-medium.onnx"},
+  "llama_url": "http://127.0.0.1:8080/v1/chat/completions"
+}
